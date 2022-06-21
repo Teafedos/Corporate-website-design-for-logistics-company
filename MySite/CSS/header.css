@@ -1,12 +1,96 @@
 body{
-	width: 1500px;
+	width: 1825px;
 
 }
 
 header{
-	width: 1520px;
+	max-width: 1825px;
 	height: 1015px;
 	margin: -9px -9px;
 	background-image: url("../IMAGES/avatar_photo.png");
 }
 
+.top_menu{
+	padding-left: 500px;
+	padding-top: 55px;
+}
+
+.panel{
+	padding-left: 25px;
+	font-size: 28px;
+	font-weight: normal;
+	font-family: arial;
+}
+
+.panel_main{
+
+	font-weight: bold;
+}
+
+.title_phrase{
+	
+	margin-left: 220px;
+	margin-top: 150px;
+	
+}
+
+.phrase_title{
+	max-width: 500px;
+	max-height: 30px;
+	color: white;
+	font-weight: normal;
+	font-family: arial;
+	font-size: 68px;
+}
+
+.mini_title{
+	margin-top: 230px;
+	color: #C0C0C0;
+	font-family: arial;
+	font-weight: normal;
+	font-size: 20px;
+	max-width: 300px;
+}
+
+.cost_button{
+	margin-left: 220px;
+	width: 300px;
+	height: 80px;
+	background-color: #e79229;
+	border-color: #e79229;
+	border-radius: 5px;
+}
+
+.count_cost{
+	color: white;
+	font-size: 20px;
+}
+
+.info_about_company{
+	background-color: rgba(0, 0, 0, 0.8);
+	width: 800px;
+	height: 140px;
+	margin-left: 220px;
+	margin-top: 210px;
+	
+}
+
+.info_field{
+	color: white;
+}
+
+.info_fiend_text_name{
+  font-size: 22px;
+  font-family: arial;
+  font-weight: normal;
+  padding-left: 50px;
+  max-width: 1000px;
+
+}
+
+.info_fiend_title_name{
+  font-size: 50px;
+  font-family: arial;
+  font-weight: normal;
+  padding-left: 65px;
+}
